@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1553049942 source:d:\zhao_fuxi\3.11\gradebook.cpp
+	"gradebook.h"
+	<iostream>
+
+1553048512 d:\zhao_fuxi\3.11\gradebook.h
+	<string>
+
+1553049920 source:d:\zhao_fuxi\3.11\main.cpp
+	<iostream>
+	"gradebook.h"
+
