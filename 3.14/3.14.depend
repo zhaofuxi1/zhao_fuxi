@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1553393172 source:d:\zhao_fuxi\3.14\main.cpp
+	<iostream>
+	"Emplyee.h"
+
+1553393795 d:\zhao_fuxi\3.14\emplyee.h
+	<string>
+
+1553392744 source:d:\zhao_fuxi\3.14\employee.cpp
+	"Emplyee.h"
+	<string>
+
