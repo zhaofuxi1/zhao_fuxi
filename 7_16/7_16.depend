@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556409914 source:d:\zhao_fuxi\7_16\main.cpp
+	<array>
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+
