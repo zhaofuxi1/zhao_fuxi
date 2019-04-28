@@ -13,32 +13,13 @@ int main()
 
     t={0,0,0,0,0,0};
 
-
-
-
     for(int n=1;n<=2;n++)
-    {
-        for(int m=1;m<=3;m++)
-        {
-            t[n][m]=0;
-        }
-    }
-
-
-
-
-
-    for(int n=1;n<=row;n++)
     {
         for(int m=1;m<=column;m++)
         {
             t[n][m]=0;
         }
     }
-
-
-
-
 
 
 
