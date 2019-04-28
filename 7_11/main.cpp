@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 //a
-    array<int,10> counter;
+    array<int,10> counter{};
 //b
     array<int,15>bonus{0,0,0,0,0,0,0,0,0,0,0,0,0};
     for(int i =1; i<=15; ++i)
