@@ -1,4 +1,5 @@
-//8.13
+//8.13、
+//将两个字符串从前至后连接起来
 
 #include <iostream>
 using namespace std;

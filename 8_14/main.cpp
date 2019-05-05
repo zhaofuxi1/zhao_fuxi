@@ -1,4 +1,4 @@
-
+//计数输入的英文字母个数
 #include <iostream>
 using namespace std;
 
