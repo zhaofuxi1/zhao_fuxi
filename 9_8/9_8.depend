@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557637451 source:d:\zhao_fuxi\9_8\date.cpp
+	<iostream>
+	"Date.h"
+
+1557637451 d:\zhao_fuxi\9_8\date.h
+

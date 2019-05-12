@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557449691 source:d:\zhao_fuxi\9_5\main.cpp
+	<iostream>
+	"Complex.h"
+
+1557448101 d:\zhao_fuxi\9_5\complex.h
+

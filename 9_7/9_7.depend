@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1557637213 source:d:\zhao_fuxi\9_7\time.cpp
+	<iostream>
+	<iomanip>
+	"Time.h"
+
+1557637213 d:\zhao_fuxi\9_7\time.h
+
