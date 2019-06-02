@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1559474561 source:d:\zhao_fuxi\12_14\account.cpp
+	<iostream>
+	"account.h"
+
+1559474538 d:\zhao_fuxi\12_14\account.h
+
+1559474561 source:d:\zhao_fuxi\12_14\checkingaccount.cpp
+	<iostream>
+	"checkingAccount.h"
+
+1559474538 d:\zhao_fuxi\12_14\checkingaccount.h
+	"Account.h"
+
+1559474568 source:d:\zhao_fuxi\12_14\savingaccount.cpp
+	"savingAccount.h"
+
+1559474538 d:\zhao_fuxi\12_14\savingaccount.h
+	"Account.h"
+
